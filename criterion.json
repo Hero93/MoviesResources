@@ -473,10 +473,10 @@
     "UKrelease(Blu-ray)": "Yes"
   },
   {
-    "SpineNo.": 44,
+    "SpineNo.": "44§",
     "LDNo.": 249,
     "Title": "The Red Shoes",
-    "Director": "Michael PowellEmeric Pressburger",
+    "Director": "Michael Powell & Emeric Pressburger",
     "Originalrelease": 1948,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -498,7 +498,7 @@
     "SpineNo.": 46,
     "LDNo.": "—",
     "Title": "The Most Dangerous Game",
-    "Director": "Ernest B. SchoedsackIrving Pichel",
+    "Director": "Ernest B. Schoedsack & Irving Pichel",
     "Originalrelease": 1932,
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -533,7 +533,7 @@
     "Title": "Nights of Cabiria",
     "Director": "Federico Fellini",
     "Originalrelease": 1957,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "Essential Fellini",
     "UKrelease(Blu-ray)": "—"
@@ -544,7 +544,7 @@
     "Title": "And the Ship Sails On",
     "Director": "Federico Fellini",
     "Originalrelease": 1984,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "Essential Fellini",
     "UKrelease(Blu-ray)": "—"
@@ -624,7 +624,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "Yes‡"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": "58†",
@@ -715,7 +715,7 @@
     "UKrelease(Blu-ray)": "Yes"
   },
   {
-    "SpineNo.": "66‡",
+    "SpineNo.": "66*",
     "LDNo.": "—",
     "Title": "The Orphic Trilogy",
     "Director": "Jean Cocteau",
@@ -797,7 +797,7 @@
     "Title": "Cléo from 5 to 7",
     "Director": "Agnès Varda",
     "Originalrelease": 1962,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "4 by Agnès Varda (#418)The Complete Films of Agnès Varda",
     "UKrelease(Blu-ray)": "—"
@@ -808,7 +808,7 @@
     "Title": "Vagabond",
     "Director": "Agnès Varda",
     "Originalrelease": 1985,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "4 by Agnès Varda (#418)The Complete Films of Agnès Varda",
     "UKrelease(Blu-ray)": "—"
@@ -861,7 +861,7 @@
     "SpineNo.": "79†",
     "LDNo.": "—",
     "Title": "W. C. Fields—Six Short Films",
-    "Director": "Monte BriceClyde BruckmanEdwin MiddletonLeslie PearceArthur Ripley",
+    "Director": "Monte Brice & Clyde Bruckman & Edwin Middleton & Leslie Pearce & Arthur Ripley",
     "Originalrelease": "1915–1933",
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -883,9 +883,9 @@
     "SpineNo.": "81†",
     "LDNo.": 279,
     "Title": "Variety Lights",
-    "Director": "Federico FelliniAlberto Lattuada",
+    "Director": "Federico Fellini & Alberto Lattuada",
     "Originalrelease": 1950,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "Yes",
     "Box set availability(DVD and Blu-ray)": "Essential Art House: Volume ThreeEssential Fellini",
     "UKrelease(Blu-ray)": "—"
@@ -927,7 +927,7 @@
     "SpineNo.": "85†",
     "LDNo.": 33,
     "Title": "Pygmalion",
-    "Director": "Anthony AsquithLeslie Howard",
+    "Director": "Anthony Asquith & Leslie Howard",
     "Originalrelease": 1938,
     "Blu-ray": "—",
     "ArtHouse": "Yes†",
@@ -935,7 +935,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "86‡",
+    "SpineNo.": "86*",
     "LDNo.": "—",
     "Title": "Eisenstein: The Sound Years",
     "Director": "Sergei Eisenstein",
@@ -1015,7 +1015,7 @@
     "SpineNo.": 93,
     "LDNo.": 38,
     "Title": "Black Narcissus",
-    "Director": "Michael PowellEmeric Pressburger",
+    "Director": "Michael Powell & Emeric Pressburger",
     "Originalrelease": 1947,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -1024,9 +1024,9 @@
   },
   {
     "SpineNo.": 94,
-    "LDNo.": 37,
+    "LDNo.": 237,
     "Title": "I Know Where I'm Going!",
-    "Director": "Michael PowellEmeric Pressburger",
+    "Director": "Michael Powell & Emeric Pressburger",
     "Originalrelease": 1945,
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -1050,10 +1050,10 @@
     "Title": "Written on the Wind",
     "Director": "Douglas Sirk",
     "Originalrelease": 1956,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes‡",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes‡"
   },
   {
     "SpineNo.": 97,
@@ -1081,7 +1081,7 @@
     "SpineNo.": 99,
     "LDNo.": "—",
     "Title": "Gimme Shelter",
-    "Director": "Albert MayslesDavid MayslesCharlotte Zwerin",
+    "Director": "Albert Maysles & David Maysles & Charlotte Zwerin",
     "Originalrelease": 1970,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -1092,7 +1092,7 @@
     "SpineNo.": 100,
     "LDNo.": "—",
     "Title": "Beastie Boys Video Anthology",
-    "Director": "David PerezAri MarcopoulosNathanial HörnblowérSpike JonzeAdam BernsteinEvan BernardTamra Davis",
+    "Director": "David Perez & Ari Marcopoulos & Nathanial Hörnblowér & Spike Jonze & Adam Bernstein & Evan Bernard & Tamra Davis",
     "Originalrelease": "1982–2000",
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -1111,12 +1111,12 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "102†",
+    "SpineNo.": 102,
     "LDNo.": "—",
     "Title": "The Discreet Charm of the Bourgeoisie",
     "Director": "Luis Buñuel",
     "Originalrelease": 1972,
-    "Blu-ray": "Yes‡",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "10 Years of Rialto Pictures  Three Films by Luis Buñuel",
     "UKrelease(Blu-ray)": "—"
@@ -1166,12 +1166,12 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "107†",
+    "SpineNo.": 107,
     "LDNo.": 347,
     "Title": "Mona Lisa",
     "Director": "Neil Jordan",
     "Originalrelease": 1986,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
@@ -1334,8 +1334,8 @@
     "SpineNo.": 122,
     "LDNo.": "—",
     "Title": "Salesman",
-    "Director": "David MayslesAlbert MayslesCharlotte Zwerin",
-    "Originalrelease": 1968,
+    "Director": "David Maysles & Albert Maysles & Charlotte Zwerin",
+    "Originalrelease": 1969,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
@@ -1345,7 +1345,7 @@
     "SpineNo.": 123,
     "LDNo.": "—",
     "Title": "Grey Gardens",
-    "Director": "David MayslesAlbert MayslesMuffie MeyerSusan FroemkeEllen Hovde",
+    "Director": "David Maysles & Albert Maysles & Muffie Meyer & Susan Froemke & Ellen Hovde",
     "Originalrelease": 1976,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -1353,10 +1353,10 @@
     "UKrelease(Blu-ray)": "Yes"
   },
   {
-    "SpineNo.": "124‡",
+    "SpineNo.": "124*",
     "LDNo.": "—",
     "Title": "Carl Theodor Dreyer Box Set",
-    "Director": "Carl Theodor DreyerTorben Skjodt Jensen",
+    "Director": "Carl Theodor Dreyer & Torben Skjodt Jensen",
     "Originalrelease": "1943–1995",
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -1562,12 +1562,12 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "143†",
+    "SpineNo.": 143,
     "LDNo.": 113,
     "Title": "That Obscure Object of Desire",
     "Director": "Luis Buñuel",
     "Originalrelease": 1977,
-    "Blu-ray": "Yes‡",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "Three Films by Luis Buñuel",
     "UKrelease(Blu-ray)": "—"
@@ -1613,7 +1613,7 @@
     "Originalrelease": 2000,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
-    "Box set availability(DVD and Blu-ray)": "World of War Kar Wai",
+    "Box set availability(DVD and Blu-ray)": "World of Wong Kar Wai",
     "UKrelease(Blu-ray)": "—"
   },
   {
@@ -1633,7 +1633,7 @@
     "Title": "Juliet of the Spirits",
     "Director": "Federico Fellini",
     "Originalrelease": 1965,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "Essential Fellini",
     "UKrelease(Blu-ray)": "—"
@@ -1776,7 +1776,7 @@
     "Title": "Ratcatcher",
     "Director": "Lynne Ramsay",
     "Originalrelease": 1999,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
@@ -1807,7 +1807,7 @@
     "SpineNo.": 165,
     "LDNo.": 215,
     "Title": "Man Bites Dog",
-    "Director": "Rémy BelvauxAndré BonzelBenoît Poelvoorde",
+    "Director": "Rémy Belvaux & André Bonzel & Benoît Poelvoorde",
     "Originalrelease": 1992,
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -1823,10 +1823,10 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes‡"
   },
   {
-    "SpineNo.": "167‡",
+    "SpineNo.": "167*",
     "LDNo.": "—",
     "Title": "The Complete Monterey Pop Festival",
     "Director": "D. A. Pennebaker",
@@ -1841,7 +1841,7 @@
     "LDNo.": 43,
     "Title": "Monterey Pop",
     "Director": "D. A. Pennebaker",
-    "Originalrelease": 1967,
+    "Originalrelease": 1968,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "The Complete Monterey Pop Festival (#167)",
@@ -1895,7 +1895,7 @@
     "SpineNo.": 173,
     "LDNo.": 37,
     "Title": "The Life and Death of Colonel Blimp",
-    "Director": "Michael PowellEmeric Pressburger",
+    "Director": "Michael Powell & Emeric Pressburger",
     "Originalrelease": 1943,
     "Blu-ray": "Yes",
     "ArtHouse": "Yes",
@@ -1925,10 +1925,10 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "176‡",
+    "SpineNo.": "176*",
     "LDNo.": "—",
     "Title": "The Killers (3 adaptations)",
-    "Director": "Robert SiodmakAndrei TarkovskyDon Siegel",
+    "Director": "Robert Siodmak & Andrei Tarkovsky & Don Siegel",
     "Originalrelease": "1946–1964",
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -1958,7 +1958,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "179‡",
+    "SpineNo.": "179*",
     "LDNo.": "—",
     "Title": "I Am Curious... Box Set",
     "Director": "Vilgot Sjöman",
@@ -2024,7 +2024,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "185‡",
+    "SpineNo.": "185*",
     "LDNo.": "—",
     "Title": "The Adventures of Antoine Doinel",
     "Director": "François Truffaut",
@@ -2073,7 +2073,7 @@
     "Title": "The White Sheik",
     "Director": "Federico Fellini",
     "Originalrelease": 1952,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "Essential Fellini",
     "UKrelease(Blu-ray)": "—"
@@ -2153,7 +2153,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes‡"
   },
   {
     "SpineNo.": 197,
@@ -2222,7 +2222,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "203‡",
+    "SpineNo.": "203*",
     "LDNo.": "—",
     "Title": "The BRD Trilogy",
     "Director": "Rainer Werner Fassbinder",
@@ -2277,7 +2277,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "208‡",
+    "SpineNo.": "208*",
     "LDNo.": "—",
     "Title": "A Film Trilogy by Ingmar Bergman",
     "Director": "Ingmar Bergman",
@@ -2381,18 +2381,18 @@
     "Title": "Tokyo Story",
     "Director": "Yasujirō Ozu",
     "Originalrelease": 1953,
-    "Blu-ray": "Yes[5]",
+    "Blu-ray": "Yes[8]",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "218†",
+    "SpineNo.": "218§",
     "LDNo.": "—",
     "Title": "Le cercle rouge",
     "Director": "Jean-Pierre Melville",
     "Originalrelease": 1970,
-    "Blu-ray": "Yes†",
+    "Blu-ray": "Yes‡",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
@@ -2403,7 +2403,7 @@
     "Title": "La strada",
     "Director": "Federico Fellini",
     "Originalrelease": 1954,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "Yes",
     "Box set availability(DVD and Blu-ray)": "Essential Art House: Volume TwoEssential Art House (50-DVD set)Essential Fellini",
     "UKrelease(Blu-ray)": "—"
@@ -2458,7 +2458,7 @@
     "Title": "Pickup on South Street",
     "Director": "Samuel Fuller",
     "Originalrelease": 1953,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
@@ -2480,7 +2480,7 @@
     "Title": "Onibaba",
     "Director": "Kaneto Shindo",
     "Originalrelease": 1964,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
@@ -2571,7 +2571,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "Yes‡"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 235,
@@ -2621,7 +2621,7 @@
     "SpineNo.": 239,
     "LDNo.": "—",
     "Title": "The Lower Depths (1936 film 1957 film)",
-    "Director": "Jean RenoirAkira Kurosawa",
+    "Director": "Jean Renoir & Akira Kurosawa",
     "Originalrelease": "1936 & 1957",
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -2640,7 +2640,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "241‡",
+    "SpineNo.": "241*",
     "LDNo.": "—",
     "Title": "Stage and Spectacle: Three Films by Jean Renoir",
     "Director": "Jean Renoir",
@@ -2700,7 +2700,7 @@
     "Title": "I vitelloni",
     "Director": "Federico Fellini",
     "Originalrelease": 1953,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "Essential Fellini",
     "UKrelease(Blu-ray)": "—"
@@ -2739,10 +2739,10 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "250‡",
+    "SpineNo.": "250*",
     "LDNo.": "—",
     "Title": "John Cassavetes: Five Films",
-    "Director": "John CassavetesCharles Kiselyak",
+    "Director": "John Cassavetes & Charles Kiselyak",
     "Originalrelease": "1959–2000",
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -2860,7 +2860,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "261‡",
+    "SpineNo.": "261*",
     "LDNo.": "—",
     "Title": "Fanny and Alexander Box Set",
     "Director": "Ingmar Bergman",
@@ -2934,7 +2934,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "25 Films by Akira Kurosawa",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 268,
@@ -3017,7 +3017,7 @@
     "SpineNo.": 275,
     "LDNo.": "—",
     "Title": "Tout va bien",
-    "Director": "Jean-Luc GodardJean-Pierre Gorin",
+    "Director": "Jean-Luc Godard & Jean-Pierre Gorin",
     "Originalrelease": 1972,
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -3091,7 +3091,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "282‡",
+    "SpineNo.": "282*",
     "LDNo.": "—",
     "Title": "Andrzej Wajda: Three War Films",
     "Director": "Andrzej Wajda",
@@ -3129,7 +3129,7 @@
     "Title": "Ashes and Diamonds",
     "Director": "Andrzej Wajda",
     "Originalrelease": 1958,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "Yes",
     "Box set availability(DVD and Blu-ray)": "Andrzej Wajda: Three War Films (#282)Essential Art House: Volume ThreeEssential Art House (50-DVD set)",
     "UKrelease(Blu-ray)": "—"
@@ -3179,12 +3179,12 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "290†",
+    "SpineNo.": 290,
     "LDNo.": "—",
     "Title": "The Phantom of Liberty",
     "Director": "Luis Buñuel",
     "Originalrelease": 1974,
-    "Blu-ray": "Yes‡",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "Three Films by Luis Buñuel",
     "UKrelease(Blu-ray)": "—"
@@ -3363,7 +3363,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 307,
@@ -3382,10 +3382,10 @@
     "Title": "Masculin féminin",
     "Director": "Jean-Luc Godard",
     "Originalrelease": 1966,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 309,
@@ -3479,7 +3479,7 @@
     "SpineNo.": "317†",
     "LDNo.": 157,
     "Title": "The Tales of Hoffmann",
-    "Director": "Michael PowellEmeric Pressburger",
+    "Director": "Michael Powell & Emeric Pressburger",
     "Originalrelease": 1951,
     "Blu-ray": "—",
     "ArtHouse": "Yes†",
@@ -3531,7 +3531,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": 322,
+    "SpineNo.": "322†",
     "LDNo.": 121,
     "Title": "The Complete Mr. Arkadin",
     "Director": "Orson Welles",
@@ -3586,7 +3586,7 @@
     "UKrelease(Blu-ray)": "Yes"
   },
   {
-    "SpineNo.": "327‡",
+    "SpineNo.": "327*",
     "LDNo.": "—",
     "Title": "3 Films by Louis Malle",
     "Director": "Louis Malle",
@@ -3743,7 +3743,7 @@
     "SpineNo.": 341,
     "LDNo.": "—",
     "Title": "A Canterbury Tale",
-    "Director": "Michael PowellEmeric Pressburger",
+    "Director": "Michael Powell & Emeric Pressburger",
     "Originalrelease": 1944,
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -3751,7 +3751,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "342‡",
+    "SpineNo.": "342*",
     "LDNo.": "—",
     "Title": "Six Moral Tales",
     "Director": "Éric Rohmer",
@@ -3957,13 +3957,13 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "Yes‡"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 361,
     "LDNo.": "—",
     "Title": "The Beales of Grey Gardens",
-    "Director": "Albert MayslesDavid Maysles",
+    "Director": "Albert Maysles & David Maysles",
     "Originalrelease": 2006,
     "Blu-ray": "Yes[VI]",
     "ArtHouse": "—",
@@ -3974,7 +3974,7 @@
     "SpineNo.": 362,
     "LDNo.": "—",
     "Title": "Border Radio",
-    "Director": "Allison AndersDean LentKurt Voss",
+    "Director": "Allison Anders & Dean LentKurt Voss",
     "Originalrelease": 1987,
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -3990,13 +3990,13 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "Yes‡"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
-    "SpineNo.": "364‡",
+    "SpineNo.": "364*",
     "LDNo.": "—",
     "Title": "Monsters and Madmen",
-    "Director": "Spencer Gordon BennetRobert Day",
+    "Director": "Spencer Gordon Bennet & Robert Day",
     "Originalrelease": "1958–1959",
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -4048,10 +4048,10 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "369‡",
+    "SpineNo.": "369*",
     "LDNo.": "—",
     "Title": "Paul Robeson: Portraits of the Artist",
-    "Director": "Dudley MurphySaul J. TurellOscar MicheauxKenneth MacphersonZoltan KordaThornton FreelandPen TennysonLeo HurwitzPaul Strand",
+    "Director": "Dudley Murphy & Saul J. Turell & Oscar Micheaux & Kenneth Macpherson & Zoltan Korda & Thornton Freeland & Pen Tennyson & Leo Hurwitz & Paul Strand",
     "Originalrelease": "1925–1979",
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -4062,7 +4062,7 @@
     "SpineNo.": 370,
     "LDNo.": 202,
     "Title": "Icon: The Emperor Jones / Paul Robeson: Tribute to an Artist",
-    "Director": "Dudley MurphySaul J. Turell",
+    "Director": "Dudley Murphy & Saul J. Turell",
     "Originalrelease": "1933 & 1979",
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -4073,7 +4073,7 @@
     "SpineNo.": 371,
     "LDNo.": "—",
     "Title": "Outsider: Body and Soul / Borderline",
-    "Director": "Oscar MicheauxKenneth Macpherson",
+    "Director": "Oscar Micheaux & Kenneth Macpherson",
     "Originalrelease": "1925 & 1930",
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -4084,7 +4084,7 @@
     "SpineNo.": 372,
     "LDNo.": "—",
     "Title": "Pioneer: Sanders of the River / Jericho",
-    "Director": "Zoltan KordaThornton Freeland",
+    "Director": "Zoltan Korda & Thornton Freeland",
     "Originalrelease": "1935 & 1937",
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -4095,7 +4095,7 @@
     "SpineNo.": 373,
     "LDNo.": "—",
     "Title": "Citizen of the World: The Proud Valley / Native Land",
-    "Director": "Pen TennysonLeo HurwitzPaul Strand",
+    "Director": "Pen Tennyson & Leo Hurwitz & Paul Strand",
     "Originalrelease": "1940 & 1942",
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -4128,7 +4128,7 @@
     "SpineNo.": 376,
     "LDNo.": 130,
     "Title": "49th Parallel",
-    "Director": "Michael PowellEmeric Pressburger",
+    "Director": "Michael Powell & Emeric Pressburger",
     "Originalrelease": 1941,
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -4268,7 +4268,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": 389,
+    "SpineNo.": "389†",
     "LDNo.": "—",
     "Title": "W.R.: Mysteries of the Organism",
     "Director": "Dušan Makavejev",
@@ -4301,7 +4301,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "392‡",
+    "SpineNo.": "392*",
     "LDNo.": "—",
     "Title": "Three Films by Hiroshi Teshigahara",
     "Director": "Hiroshi Teshigahara",
@@ -4367,7 +4367,7 @@
     "UKrelease(Blu-ray)": "Yes"
   },
   {
-    "SpineNo.": 398,
+    "SpineNo.": "398†",
     "LDNo.": "—",
     "Title": "Les enfants terribles",
     "Director": "Jean-Pierre Melville",
@@ -4488,12 +4488,12 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": 409,
+    "SpineNo.": "409†",
     "LDNo.": "—",
     "Title": "Days of Heaven",
     "Director": "Terrence Malick",
     "Originalrelease": 1978,
-    "Blu-ray": "Yes",
+    "Blu-ray": "Yes†",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
@@ -4587,7 +4587,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "418‡",
+    "SpineNo.": "418*",
     "LDNo.": "—",
     "Title": "4 by Agnès Varda",
     "Director": "Agnès Varda",
@@ -4603,7 +4603,7 @@
     "Title": "La Pointe Courte",
     "Director": "Agnès Varda",
     "Originalrelease": 1956,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "4 by Agnès Varda (#418)The Complete Films of Agnès Varda",
     "UKrelease(Blu-ray)": "—"
@@ -4614,7 +4614,7 @@
     "Title": "Le bonheur",
     "Director": "Agnès Varda",
     "Originalrelease": 1965,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "4 by Agnès Varda (#418)The Complete Films of Agnès Varda",
     "UKrelease(Blu-ray)": "—"
@@ -4733,7 +4733,7 @@
     "SpineNo.": 431,
     "LDNo.": "—",
     "Title": "The Thief of Bagdad[6]",
-    "Director": "Ludwig BergerMichael PowellTim Whelan",
+    "Director": "Ludwig Berger & Michael Powell & Tim Whelan",
     "Originalrelease": 1940,
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -4755,7 +4755,7 @@
     "SpineNo.": 433,
     "LDNo.": "—",
     "Title": "Patriotism",
-    "Director": "Domoto MasakiYukio Mishima",
+    "Director": "Domoto Masaki & Yukio Mishima",
     "Originalrelease": 1966,
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -4779,7 +4779,7 @@
     "Title": "The Furies",
     "Director": "Anthony Mann",
     "Originalrelease": 1950,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
@@ -4843,7 +4843,7 @@
     "SpineNo.": "441†",
     "LDNo.": "—",
     "Title": "The Small Back Room",
-    "Director": "Michael PowellEmeric Pressburger",
+    "Director": "Michael Powell & Emeric Pressburger",
     "Originalrelease": 1949,
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -5123,7 +5123,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes‡"
   },
   {
     "SpineNo.": 467,
@@ -5153,7 +5153,7 @@
     "Title": "The Hit",
     "Director": "Stephen Frears",
     "Originalrelease": 1984,
-    "Blu-ray": "Yes‡",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
@@ -5170,7 +5170,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "471‡",
+    "SpineNo.": "471*",
     "LDNo.": "—",
     "Title": "Pigs, Pimps & Prostitutes: 3 Films by Shohei Imamura",
     "Director": "Shohei Imamura",
@@ -5274,7 +5274,7 @@
     "Title": "The Human Condition",
     "Director": "Masaki Kobayashi",
     "Originalrelease": 1959,
-    "Blu-ray": "—",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
@@ -5434,10 +5434,10 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "495‡",
+    "SpineNo.": "495*",
     "LDNo.": "—",
     "Title": "The Golden Age of Television",
-    "Director": "Delbert MannFielder CookAlex SegalDaniel PetrieCordelia StoneRalph NelsonJohn Frankenheimer",
+    "Director": "Delbert Mann & Fielder Cook & Alex Segal & Daniel Petrie & Cordelia Stone & Ralph Nelson & John Frankenheimer",
     "Originalrelease": "1953–1958",
     "Blu-ray": "—",
     "ArtHouse": "—",
@@ -5489,7 +5489,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "500‡",
+    "SpineNo.": "500*",
     "LDNo.": "—",
     "Title": "Roberto Rossellini's War Trilogy",
     "Director": "Roberto Rossellini",
@@ -5577,7 +5577,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "508‡",
+    "SpineNo.": "508*",
     "LDNo.": "—",
     "Title": "Letters from Fontainhas: Three Films by Pedro Costa",
     "Director": "Pedro Costa",
@@ -5687,7 +5687,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "518‡",
+    "SpineNo.": "518*",
     "LDNo.": "—",
     "Title": "By Brakhage: An Anthology, Volumes One and Two",
     "Director": "Stan Brakhage",
@@ -5753,7 +5753,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "524‡",
+    "SpineNo.": "524*",
     "LDNo.": "—",
     "Title": "Two Films by Yasujiro Ozu",
     "Director": "Yasujirō Ozu",
@@ -5797,7 +5797,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "528‡",
+    "SpineNo.": "528*",
     "LDNo.": "—",
     "Title": "Three Silent Classics by Josef von Sternberg",
     "Director": "Josef von Sternberg",
@@ -5893,7 +5893,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 537,
@@ -5937,7 +5937,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 541,
@@ -5948,7 +5948,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 542,
@@ -5970,7 +5970,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes‡"
   },
   {
     "SpineNo.": 544,
@@ -6179,7 +6179,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 563,
@@ -6201,7 +6201,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes‡"
   },
   {
     "SpineNo.": 565,
@@ -6251,7 +6251,7 @@
     "SpineNo.": 569,
     "LDNo.": "—",
     "Title": "People on Sunday",
-    "Director": "Robert SiodmakEdgar G. Ulmer",
+    "Director": "Robert Siodmak & Edgar G. Ulmer",
     "Originalrelease": 1930,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -6315,7 +6315,7 @@
   },
   {
     "SpineNo.": 575,
-    "LDNo.": "—",
+    "LDNo.": 64,
     "Title": "The Killing[12]",
     "Director": "Stanley Kubrick",
     "Originalrelease": 1956,
@@ -6347,7 +6347,7 @@
     "UKrelease(Blu-ray)": "Yes"
   },
   {
-    "SpineNo.": "578‡",
+    "SpineNo.": "578*",
     "LDNo.": "—",
     "Title": "The Complete Jean Vigo",
     "Director": "Jean Vigo",
@@ -6446,7 +6446,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "587‡",
+    "SpineNo.": "587*",
     "LDNo.": "—",
     "Title": "Three Colors",
     "Director": "Krzysztof Kieślowski",
@@ -6614,7 +6614,7 @@
     "SpineNo.": 602,
     "LDNo.": "—",
     "Title": "The War Room",
-    "Director": "D. A. PennebakerChris Hegedus",
+    "Director": "D. A. Pennebaker & Chris Hegedus",
     "Originalrelease": 1993,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -6622,10 +6622,10 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "603‡",
+    "SpineNo.": "603*",
     "LDNo.": "—",
     "Title": "David Lean Directs Noël Coward",
-    "Director": "David LeanNoël Coward",
+    "Director": "David Lean & Noël Coward",
     "Originalrelease": "1942–1945",
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -6636,7 +6636,7 @@
     "SpineNo.": 604,
     "LDNo.": 263,
     "Title": "In Which We Serve",
-    "Director": "David LeanNoël Coward",
+    "Director": "David Lean & Noël Coward",
     "Originalrelease": 1942,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -6677,12 +6677,12 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": 608,
+    "SpineNo.": "608†",
     "LDNo.": "—",
     "Title": "Harold and Maude",
     "Director": "Hal Ashby",
     "Originalrelease": 1971,
-    "Blu-ray": "Yes",
+    "Blu-ray": "Yes†",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
@@ -6812,7 +6812,7 @@
     "SpineNo.": 620,
     "LDNo.": "—",
     "Title": "La promesse",
-    "Director": "Jean-Pierre DardenneLuc Dardenne",
+    "Director": "Jean-Pierre Dardenne & Luc Dardenne",
     "Originalrelease": 1996,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -6823,7 +6823,7 @@
     "SpineNo.": 621,
     "LDNo.": "—",
     "Title": "Rosetta",
-    "Director": "Jean-Pierre DardenneLuc Dardenne",
+    "Director": "Jean-Pierre Dardenne & Luc Dardenne",
     "Originalrelease": 1999,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -6919,18 +6919,18 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": 630,
+    "SpineNo.": "630†",
     "LDNo.": "—",
     "Title": "Rosemary's Baby",
     "Director": "Roman Polanski",
     "Originalrelease": 1968,
-    "Blu-ray": "Yes",
+    "Blu-ray": "Yes†",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "631‡",
+    "SpineNo.": "631*",
     "LDNo.": "—",
     "Title": "Trilogy of Life",
     "Director": "Pier Paolo Pasolini",
@@ -7018,7 +7018,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "639‡",
+    "SpineNo.": "639*",
     "LDNo.": "—",
     "Title": "The Qatsi Trilogy",
     "Director": "Godfrey Reggio",
@@ -7098,7 +7098,7 @@
     "SpineNo.": 646,
     "LDNo.": "—",
     "Title": "The Kid with a Bike",
-    "Director": "Jean-Pierre DardenneLuc Dardenne",
+    "Director": "Jean-Pierre Dardenne & Luc Dardenne",
     "Originalrelease": 2011,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -7120,7 +7120,7 @@
     "SpineNo.": 648,
     "LDNo.": "—",
     "Title": "Chronicle of a Summer",
-    "Director": "Jean RouchEdgar Morin",
+    "Director": "Jean Rouch & Edgar Morin",
     "Originalrelease": 1961,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -7194,7 +7194,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "655‡",
+    "SpineNo.": "655*",
     "LDNo.": "—",
     "Title": "Pierre Étaix",
     "Director": "Pierre Étaix",
@@ -7274,7 +7274,7 @@
     "SpineNo.": 662,
     "LDNo.": "—",
     "Title": "Safety Last!",
-    "Director": "Fred NewmeyerSam Taylor",
+    "Director": "Fred Newmeyer & Sam Taylor",
     "Originalrelease": 1923,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -7356,7 +7356,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 670,
@@ -7381,7 +7381,7 @@
     "UKrelease(Blu-ray)": "Yes"
   },
   {
-    "SpineNo.": "672‡",
+    "SpineNo.": "672*",
     "LDNo.": "—",
     "Title": "3 Films by Roberto Rossellini Starring Ingrid Bergman",
     "Director": "Roberto Rossellini",
@@ -7458,10 +7458,10 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "679‡",
+    "SpineNo.": "679*",
     "LDNo.": "—",
     "Title": "Zatoichi: The Blind Swordsman",
-    "Director": "Kenji MisumiKazuo MoriTokuzô TanakaKimiyoshi YasudaKazuo IkehiroAkira InoueSatsuo YamamotoShintaro Katsu",
+    "Director": "Kenji Misumi & Kazuo Mori & Tokuzô Tanaka & Kimiyoshi Yasuda & Kazuo Ikehiro & Akira Inoue & Satsuo Yamamoto & Shintaro Katsu",
     "Originalrelease": "1962–1973",
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -7499,21 +7499,21 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "Yes‡"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
-    "SpineNo.": 683,
+    "SpineNo.": "683†",
     "LDNo.": "—",
     "Title": "Nashville",
     "Director": "Robert Altman",
     "Originalrelease": 1975,
-    "Blu-ray": "Yes",
+    "Blu-ray": "Yes†",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "684‡",
+    "SpineNo.": "684*",
     "LDNo.": "—",
     "Title": "Martin Scorsese's World Cinema Project",
     "Director": "",
@@ -7529,7 +7529,7 @@
     "Title": "Touki Bouki",
     "Director": "Djibril Diop Mambéty",
     "Originalrelease": 1973,
-    "Blu-ray": "Yes‡",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "Martin Scorsese's World Cinema Project (#684)",
     "UKrelease(Blu-ray)": "—"
@@ -7538,7 +7538,7 @@
     "SpineNo.": 686,
     "LDNo.": "—",
     "Title": "Redes",
-    "Director": "Emilio Gómez Muriel, Fred Zinnemann",
+    "Director": "Emilio Gómez Muriel & Fred Zinnemann",
     "Originalrelease": 1936,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -7697,7 +7697,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 701,
@@ -7725,7 +7725,7 @@
     "SpineNo.": 703,
     "LDNo.": "—",
     "Title": "The Freshman",
-    "Director": "Fred NewmeyerSam Taylor",
+    "Director": "Fred Newmeyer & Sam Taylor",
     "Originalrelease": 1925,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -7810,7 +7810,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": 711,
+    "SpineNo.": "711§",
     "LDNo.": 20,
     "Title": "A Hard Day's Night",
     "Director": "Richard Lester",
@@ -7832,7 +7832,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "713‡",
+    "SpineNo.": "713*",
     "LDNo.": "—",
     "Title": "The Essential Jacques Demy",
     "Director": "Jacques Demy",
@@ -8008,7 +8008,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "729‡",
+    "SpineNo.": "729*",
     "LDNo.": "—",
     "Title": "The Complete Jacques Tati",
     "Director": "Jacques Tati",
@@ -8057,10 +8057,10 @@
     "Title": "La dolce vita",
     "Director": "Federico Fellini",
     "Originalrelease": 1960,
-    "Blu-ray": "Yes",
+    "Blu-ray": "Yes†",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "Essential Fellini",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 734,
@@ -8096,7 +8096,7 @@
     "UKrelease(Blu-ray)": "Yes"
   },
   {
-    "SpineNo.": "737‡",
+    "SpineNo.": "737*",
     "LDNo.": "—",
     "Title": "Always for Pleasure",
     "Director": "Les Blank",
@@ -8184,12 +8184,12 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": 745,
+    "SpineNo.": "745†",
     "LDNo.": "—",
     "Title": "Don't Look Now",
     "Director": "Nicolas Roeg",
     "Originalrelease": 1973,
-    "Blu-ray": "Yes",
+    "Blu-ray": "Yes†",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
@@ -8199,7 +8199,7 @@
     "LDNo.": "—",
     "Title": "A Day in the Country",
     "Director": "Jean Renoir",
-    "Originalrelease": 1936,
+    "Originalrelease": 1946,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
@@ -8207,7 +8207,7 @@
   },
   {
     "SpineNo.": 747,
-    "LDNo.": 35,
+    "LDNo.": 35230,
     "Title": "Fellini Satyricon",
     "Director": "Federico Fellini",
     "Originalrelease": 1969,
@@ -8473,7 +8473,7 @@
     "SpineNo.": 771,
     "LDNo.": "—",
     "Title": "Two Days, One Night",
-    "Director": "Jean-Pierre DardenneLuc Dardenne",
+    "Director": "Jean-Pierre Dardenne & Luc Dardenne",
     "Originalrelease": 2014,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -8558,7 +8558,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": 779,
+    "SpineNo.": "779§",
     "LDNo.": "—",
     "Title": "Mulholland Dr.",
     "Director": "David Lynch",
@@ -8591,7 +8591,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "782‡",
+    "SpineNo.": "782*",
     "LDNo.": "—",
     "Title": "The Apu Trilogy",
     "Director": "Satyajit Ray",
@@ -8877,7 +8877,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "808‡",
+    "SpineNo.": "808*",
     "LDNo.": "—",
     "Title": "The Kennedy Films of Robert Drew & Associates",
     "Director": "Robert Drew",
@@ -8932,7 +8932,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "813‡",
+    "SpineNo.": "813*",
     "LDNo.": "—",
     "Title": "Wim Wenders: The Road Trilogy",
     "Director": "Wim Wenders",
@@ -9083,7 +9083,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "Yes‡"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 827,
@@ -9240,10 +9240,10 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "841‡",
+    "SpineNo.": "841*",
     "LDNo.": "—",
     "Title": "Lone Wolf and Cub",
-    "Director": "Kenji MisumiBuichi SaitoYoshiyuki Kuroda",
+    "Director": "Kenji Misumi & Buichi Saito & Yoshiyuki Kuroda",
     "Originalrelease": "1972–1974",
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -9405,7 +9405,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "856‡",
+    "SpineNo.": "856*",
     "LDNo.": "—",
     "Title": "The Before Trilogy",
     "Director": "Richard Linklater",
@@ -9561,7 +9561,7 @@
   {
     "SpineNo.": 870,
     "LDNo.": 220,
-    "Title": "Othello",
+    "Title": "Othello[1]",
     "Director": "Orson Welles",
     "Originalrelease": 1952,
     "Blu-ray": "Yes",
@@ -9592,7 +9592,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "873‡",
+    "SpineNo.": "873*",
     "LDNo.": "—",
     "Title": "Martin Scorsese's World Cinema Project No. 2",
     "Director": "",
@@ -9680,7 +9680,7 @@
     "UKrelease(Blu-ray)": "Yes"
   },
   {
-    "SpineNo.": "881‡",
+    "SpineNo.": "881*",
     "LDNo.": "—",
     "Title": "The Marseille Trilogy",
     "Director": "",
@@ -9754,7 +9754,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 888,
@@ -9837,7 +9837,7 @@
     "SpineNo.": 895,
     "LDNo.": "—",
     "Title": "David Lynch: The Art Life",
-    "Director": "Olivia Neergaard-HolmRick BarnesJohn Nguyen",
+    "Director": "Olivia Neergaard-Holm & Rick Barnes & John Nguyen",
     "Originalrelease": 2016,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -9875,7 +9875,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 899,
@@ -9889,7 +9889,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "900‡",
+    "SpineNo.": "900*",
     "LDNo.": "—",
     "Title": "100 Years of Olympic Films: 1912–2012",
     "Director": "",
@@ -9969,7 +9969,7 @@
     "SpineNo.": 907,
     "LDNo.": "—",
     "Title": "Westfront 1918",
-    "Director": "G. W. Pabst",
+    "Director": "Georg Wilhelm Pabst",
     "Originalrelease": 1930,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -9980,7 +9980,7 @@
     "SpineNo.": 908,
     "LDNo.": "—",
     "Title": "Kameradschaft",
-    "Director": "G. W. Pabst",
+    "Director": "Georg Wilhelm Pabst",
     "Originalrelease": 1931,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -10219,7 +10219,7 @@
     "UKrelease(Blu-ray)": "Yes"
   },
   {
-    "SpineNo.": 930,
+    "SpineNo.": "930*",
     "LDNo.": "—",
     "Title": "Dietrich & von Sternberg in Hollywood",
     "Director": "Josef von Sternberg",
@@ -10321,7 +10321,7 @@
     "SpineNo.": 939,
     "LDNo.": "—",
     "Title": "A Matter of Life and Death",
-    "Director": "Michael PowellEmeric Pressburger",
+    "Director": "Michael Powell & Emeric Pressburger",
     "Originalrelease": 1946,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -10754,7 +10754,7 @@
     "Originalrelease": 1977,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
-    "Box set availability(DVD and Blu-ray)": "4 by Agnès Varda (#418)The Complete Films of Agnès Varda",
+    "Box set availability(DVD and Blu-ray)": "The Complete Films of Agnès Varda",
     "UKrelease(Blu-ray)": "—"
   },
   {
@@ -10815,7 +10815,7 @@
   {
     "SpineNo.": 984,
     "LDNo.": "—",
-    "Title": "1984",
+    "Title": 1984,
     "Director": "Michael Radford",
     "Originalrelease": 1984,
     "Blu-ray": "Yes",
@@ -10992,7 +10992,7 @@
     "SpineNo.": 1000,
     "LDNo.": "—",
     "Title": "Godzilla: The Shōwa-Era Films, 1954–1975",
-    "Director": "Ishirō HondaJun FukudaMotoyoshi OdaYoshimitsu Banno",
+    "Director": "Ishirō Honda & Jun Fukuda & Motoyoshi Oda & Yoshimitsu Banno",
     "Originalrelease": "1954–1975",
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -11030,7 +11030,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "—"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 1004,
@@ -11272,7 +11272,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "Yes‡"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 1026,
@@ -11319,7 +11319,7 @@
     "UKrelease(Blu-ray)": "Yes"
   },
   {
-    "SpineNo.": "1030‡",
+    "SpineNo.": "1030*",
     "LDNo.": "—",
     "Title": "Scorsese Shorts",
     "Director": "Martin Scorsese",
@@ -11363,7 +11363,7 @@
     "UKrelease(Blu-ray)": "Yes"
   },
   {
-    "SpineNo.": "1034‡",
+    "SpineNo.": 1034,
     "LDNo.": "—",
     "Title": "Portrait of a Lady on Fire",
     "Director": "Céline Sciamma",
@@ -11385,10 +11385,10 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": 1036,
+    "SpineNo.": "1036*",
     "LDNo.": "—",
     "Title": "Bruce Lee: His Greatest Hits[29]",
-    "Director": "Lo WeiBruce LeeRobert Clouse",
+    "Director": "Lo Wei & Bruce LeeRobert Clouse",
     "Originalrelease": "1971–1978",
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -11421,7 +11421,7 @@
     "SpineNo.": 1039,
     "LDNo.": "—",
     "Title": "Town Bloody Hall",
-    "Director": "Chris HegedusD. A. Pennebaker",
+    "Director": "Chris Hegedus & D. A. Pennebaker",
     "Originalrelease": 1979,
     "Blu-ray": "Yes",
     "ArtHouse": "—",
@@ -11473,7 +11473,7 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "1044‡",
+    "SpineNo.": "1044*",
     "LDNo.": "—",
     "Title": "Martin Scorsese's World Cinema Project No. 3",
     "Director": "",
@@ -11635,7 +11635,7 @@
     "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "Yes‡"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
     "SpineNo.": 1059,
@@ -11660,121 +11660,638 @@
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "1061‡",
+    "SpineNo.": 1061,
     "LDNo.": "—",
     "Title": "Minding the Gap",
     "Director": "Bing Liu",
     "Originalrelease": 2018,
-    "Blu-ray": "Yes‡",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "1062‡",
+    "SpineNo.": 1062,
     "LDNo.": "—",
     "Title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
     "Director": "Martin Scorsese",
     "Originalrelease": 2019,
-    "Blu-ray": "Yes‡",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
-    "UKrelease(Blu-ray)": "Yes‡"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
-    "SpineNo.": "1063‡",
+    "SpineNo.": 1063,
     "LDNo.": "—",
     "Title": "The Ascent",
     "Director": "Larisa Shepitko",
     "Originalrelease": 1977,
-    "Blu-ray": "Yes‡",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "Eclipse Series #11",
-    "UKrelease(Blu-ray)": "Yes‡"
+    "UKrelease(Blu-ray)": "Yes"
   },
   {
-    "SpineNo.": "1064‡",
+    "SpineNo.": 1064,
     "LDNo.": "—",
     "Title": "The Parallax View",
     "Director": "Alan J. Pakula",
     "Originalrelease": 1974,
-    "Blu-ray": "Yes‡",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "1065‡",
+    "SpineNo.": 1065,
     "LDNo.": "—",
     "Title": "Mandabi",
     "Director": "Ousmane Sembène",
     "Originalrelease": 1968,
-    "Blu-ray": "Yes‡",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "1066‡",
+    "SpineNo.": 1066,
     "LDNo.": "—",
     "Title": "Man Push Cart",
     "Director": "Ramin Bahrani",
     "Originalrelease": 2005,
-    "Blu-ray": "Yes‡",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "1067‡",
+    "SpineNo.": 1067,
     "LDNo.": "—",
     "Title": "Chop Shop",
     "Director": "Ramin Bahrani",
     "Originalrelease": 2007,
-    "Blu-ray": "Yes‡",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "1068‡",
+    "SpineNo.": 1068,
     "LDNo.": "—",
     "Title": "Smooth Talk",
     "Director": "Joyce Chopra",
     "Originalrelease": 1985,
-    "Blu-ray": "Yes‡",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "1069‡",
+    "SpineNo.": 1069,
     "LDNo.": "—",
     "Title": "Céline and Julie Go Boating",
     "Director": "Jacques Rivette",
     "Originalrelease": 1974,
-    "Blu-ray": "Yes‡",
+    "Blu-ray": "Yes",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "1070‡",
+    "SpineNo.": 1070,
     "LDNo.": "—",
     "Title": "Secrets & Lies",
     "Director": "Mike Leigh",
     "Originalrelease": 1996,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes"
+  },
+  {
+    "SpineNo.": 1071,
+    "LDNo.": "—",
+    "Title": "Defending Your Life",
+    "Director": "Albert Brooks",
+    "Originalrelease": 1991,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes"
+  },
+  {
+    "SpineNo.": 1072,
+    "LDNo.": "—",
+    "Title": "History Is Made at Night",
+    "Director": "Frank Borzage",
+    "Originalrelease": 1937,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": 1073,
+    "LDNo.": "—",
+    "Title": "Memories of Murder",
+    "Director": "Bong Joon-ho",
+    "Originalrelease": 2003,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": 1074,
+    "LDNo.": "—",
+    "Title": "Irma Vep",
+    "Director": "Olivier Assayas",
+    "Originalrelease": 1996,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": 1075,
+    "LDNo.": "—",
+    "Title": "Fast Times at Ridgemont High",
+    "Director": "Amy Heckerling",
+    "Originalrelease": 1982,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes"
+  },
+  {
+    "SpineNo.": 1076,
+    "LDNo.": "—",
+    "Title": "Merrily We Go to Hell",
+    "Director": "Dorothy Arzner",
+    "Originalrelease": 1932,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes"
+  },
+  {
+    "SpineNo.": 1077,
+    "LDNo.": "—",
+    "Title": "Flowers of Shanghai",
+    "Director": "Hou Hsiao-hsien",
+    "Originalrelease": 1998,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes"
+  },
+  {
+    "SpineNo.": 1078,
+    "LDNo.": "—",
+    "Title": "Nightmare Alley",
+    "Director": "Edmund Goulding",
+    "Originalrelease": 1947,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": 1079,
+    "LDNo.": "—",
+    "Title": "Streetwise",
+    "Director": "Martin Bell",
+    "Originalrelease": 1984,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "Streetwise/Tiny: The Life of Erin Blackwell",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": 1080,
+    "LDNo.": "—",
+    "Title": "Tiny: The Life of Erin Blackwell",
+    "Director": "Martin Bell",
+    "Originalrelease": 2016,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "Streetwise/Tiny: The Life of Erin Blackwell",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": 1081,
+    "LDNo.": "—",
+    "Title": "Visions of Eight",
+    "Director": "Miloš FormanKon IchikawaClaude LelouchJuri OzerovArthur PennMichael PflegharJohn SchlesingerMai Zetterling",
+    "Originalrelease": 1973,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "100 Years of Olympic Films: 1912-2012",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": "1082*",
+    "LDNo.": "—",
+    "Title": "The Signifyin’ Works of Marlon Riggs",
+    "Director": "Marlon Riggs",
+    "Originalrelease": "1986-1995",
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": 1083,
+    "LDNo.": "—",
+    "Title": "Pariah",
+    "Director": "Dee Rees",
+    "Originalrelease": 2011,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes"
+  },
+  {
+    "SpineNo.": 1084,
+    "LDNo.": "—",
+    "Title": "Mirror",
+    "Director": "Andrei Tarkovsky",
+    "Originalrelease": 1975,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes"
+  },
+  {
+    "SpineNo.": 1085,
+    "LDNo.": "—",
+    "Title": "Bringing Up Baby",
+    "Director": "Howard Hawks",
+    "Originalrelease": 1938,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes"
+  },
+  {
+    "SpineNo.": 1086,
+    "LDNo.": "—",
+    "Title": "Deep Cover",
+    "Director": "Bill Duke",
+    "Originalrelease": 1992,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes"
+  },
+  {
+    "SpineNo.": 1087,
+    "LDNo.": "—",
+    "Title": "Working Girls",
+    "Director": "Lizzie Borden",
+    "Originalrelease": 1986,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": 1088,
+    "LDNo.": "—",
+    "Title": "La Piscine",
+    "Director": "Jacques Deray",
+    "Originalrelease": 1969,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": 1089,
+    "LDNo.": "—",
+    "Title": "After Life",
+    "Director": "Hirokazu Kore-eda",
+    "Originalrelease": 1998,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": 1090,
+    "LDNo.": "—",
+    "Title": "Original Cast Album: “Company”",
+    "Director": "D.A. Pennebaker",
+    "Originalrelease": 1970,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes"
+  },
+  {
+    "SpineNo.": 1091,
+    "LDNo.": "—",
+    "Title": "Beasts of No Nation",
+    "Director": "Cary Joji Fukunaga",
+    "Originalrelease": 2015,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes"
+  },
+  {
+    "SpineNo.": 1092,
+    "LDNo.": "—",
+    "Title": "Throw Down",
+    "Director": "Johnnie To",
+    "Originalrelease": 2004,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": 1093,
+    "LDNo.": "—",
+    "Title": "The Story of a Three-Day Pass",
+    "Director": "Melvin Van Peebles",
+    "Originalrelease": 1967,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "Melvin Van Peebles: Essential Films",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": 1094,
+    "LDNo.": "—",
+    "Title": "Watermelon Man",
+    "Director": "Melvin Van Peebles",
+    "Originalrelease": 1970,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "Melvin Van Peebles: Essential Films",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": 1095,
+    "LDNo.": 316,
+    "Title": "Sweet Sweetback's Baadasssss Song",
+    "Director": "Melvin Van Peebles",
+    "Originalrelease": 1971,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "Melvin Van Peebles: Essential Films",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": 1096,
+    "LDNo.": "—",
+    "Title": "Don't Play Us Cheap",
+    "Director": "Melvin Van Peebles",
+    "Originalrelease": 1972,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "Melvin Van Peebles: Essential Films",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": 1097,
+    "LDNo.": "—",
+    "Title": "Love & Basketball",
+    "Director": "Gina Prince-Bythewood",
+    "Originalrelease": 2000,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes"
+  },
+  {
+    "SpineNo.": 1098,
+    "LDNo.": "—",
+    "Title": "The Damned",
+    "Director": "Luchino Visconti",
+    "Originalrelease": 1969,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes"
+  },
+  {
+    "SpineNo.": 1099,
+    "LDNo.": "—",
+    "Title": "High Sierra",
+    "Director": "Raoul Walsh",
+    "Originalrelease": 1941,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": 1100,
+    "LDNo.": "—",
+    "Title": "The Incredible Shrinking Man",
+    "Director": "Jack Arnold",
+    "Originalrelease": 1957,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": "1101§",
+    "LDNo.": "—",
+    "Title": "Uncut Gems",
+    "Director": "Josh and Benny Safdie",
+    "Originalrelease": 2019,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": 1102,
+    "LDNo.": "—",
+    "Title": "Devi",
+    "Director": "Satyajit Ray",
+    "Originalrelease": 1960,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes"
+  },
+  {
+    "SpineNo.": "1103*",
+    "LDNo.": "—",
+    "Title": "Once Upon a Time in China: The Complete Films",
+    "Director": "Tsui HarkYuen Bun",
+    "Originalrelease": "1991-1994",
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": "1104§",
+    "LDNo.": 1142,
+    "Title": "Citizen Kane",
+    "Director": "Orson Welles",
+    "Originalrelease": 1941,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": "1105§",
+    "LDNo.": 219,
+    "Title": "Menace II Society",
+    "Director": "Albert and Allen Hughes",
+    "Originalrelease": 1993,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes"
+  },
+  {
+    "SpineNo.": 1106,
+    "LDNo.": "—",
+    "Title": "One Night in Miami...",
+    "Director": "Regina King",
+    "Originalrelease": 2020,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes"
+  },
+  {
+    "SpineNo.": 1107,
+    "LDNo.": "—",
+    "Title": "The Learning Tree",
+    "Director": "Gordon Parks",
+    "Originalrelease": 1969,
+    "Blu-ray": "Yes",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": "1108‡",
+    "LDNo.": "—",
+    "Title": "Festen",
+    "Director": "Thomas Vinterberg",
+    "Originalrelease": 1998,
     "Blu-ray": "Yes‡",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
     "UKrelease(Blu-ray)": "—"
   },
   {
-    "SpineNo.": "1071‡",
+    "SpineNo.": "1109‡",
     "LDNo.": "—",
-    "Title": "Defending Your Life",
-    "Director": "Albert Brooks",
-    "Originalrelease": 1991,
+    "Title": "Time",
+    "Director": "Garrett Bradley",
+    "Originalrelease": 2020,
+    "Blu-ray": "Yes‡",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": "1110§",
+    "LDNo.": "—",
+    "Title": "The Piano",
+    "Director": "Jane Campion",
+    "Originalrelease": 1993,
+    "Blu-ray": "Yes‡",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": "1111‡",
+    "LDNo.": "—",
+    "Title": "Dick Johnson Is Dead",
+    "Director": "Kirsten Johnson",
+    "Originalrelease": 2020,
+    "Blu-ray": "Yes‡",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes‡"
+  },
+  {
+    "SpineNo.": "1112‡",
+    "LDNo.": "—",
+    "Title": "Miller's Crossing",
+    "Director": "Joel and Ethan Coen",
+    "Originalrelease": 1990,
+    "Blu-ray": "Yes‡",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": "1113‡",
+    "LDNo.": "—",
+    "Title": "Boat People",
+    "Director": "Ann Hui",
+    "Originalrelease": 1982,
+    "Blu-ray": "Yes‡",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes‡"
+  },
+  {
+    "SpineNo.": "1114‡",
+    "LDNo.": "—",
+    "Title": "Love Affair",
+    "Director": "Leo McCarey",
+    "Originalrelease": 1939,
+    "Blu-ray": "Yes‡",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "Yes‡"
+  },
+  {
+    "SpineNo.": "1115‡",
+    "LDNo.": "—",
+    "Title": "Adoption",
+    "Director": "Márta Mészáros",
+    "Originalrelease": 1975,
+    "Blu-ray": "Yes‡",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": "1116‡",
+    "LDNo.": "—",
+    "Title": "The Flight of the Phoenix",
+    "Director": "Robert Aldrich",
+    "Originalrelease": 1965,
+    "Blu-ray": "Yes‡",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": "1117‡",
+    "LDNo.": "—",
+    "Title": "Love Jones",
+    "Director": "Theodore Witcher",
+    "Originalrelease": 1997,
+    "Blu-ray": "Yes‡",
+    "ArtHouse": "—",
+    "Box set availability(DVD and Blu-ray)": "",
+    "UKrelease(Blu-ray)": "—"
+  },
+  {
+    "SpineNo.": "1118§",
+    "LDNo.": "—",
+    "Title": "The Last Waltz",
+    "Director": "Martin Scorsese",
+    "Originalrelease": 1978,
     "Blu-ray": "Yes‡",
     "ArtHouse": "—",
     "Box set availability(DVD and Blu-ray)": "",
